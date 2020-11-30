@@ -1,0 +1,91 @@
+body { 
+	background-color: mistyrose;
+	color: rgb(30,30,30);
+	font-family:courier;
+
+width: 700;
+margin: 50 auto;
+
+
+
+
+	}
+h1 {
+	color: #DB0073;
+	font-weight: 100;
+	font-size:60px
+	font-family: 'Nerko One', cursive;
+	font-family: 'Permanent Marker', cursive;
+	width: 0, auto
+	}
+h2 {
+	color: hotpink;
+	font-family: Arial;
+	font-weight: 100;
+	width: auto
+
+	}
+
+a {
+	color:#DB0073 ;
+
+}
+a:hover {  
+	color:pink;
+
+}
+
+
+.premiere { 
+	box-shadow: -1px 0px 5px 2px #db00738c;
+    text-align: center
+}
+
+#logo { 
+border-radius:50%;
+width: 300
+}	
+
+.titre {
+text-align: center;
+}
+
+.centre {
+text-align:center
+;
+}
+
+.description { 
+	box-shadow: 0 0 5px 1px #0000005e
+
+}
+
+.btn-grey { 
+background-color:#C0C0C0;
+color:hotpink;
+padding:15px 20px;
+border-radius:4px;
+box-shadow:-1px 0px 5px 2px pink;
+
+}
+
+
+
+#list-inline  { 
+	list-style: none 	
+}
+
+#introduction p { 
+	margin-bottom: 30px
+	
+	;
+	
+}
+
+.line-height { 
+line-height: 30px
+
+}
+
+
+
